@@ -8540,7 +8540,7 @@ a.text-light:focus {
   color: #97abbe !important;
 }
 .text-dark {
-  color: #354554 !important;
+  color: #ff5722 !important;
 }
 a.text-dark:hover,
 a.text-dark:focus {
@@ -8882,8 +8882,8 @@ a.link-on-bg:hover {
 .hero-section .figure-holder {
     background: url(../images/hero-figure.png) no-repeat;
     background-size: cover;
-    background-position: 350px top;
-    min-height: 800px;
+    background-position: 300px 0px;
+    min-height: 500px;
 }
 .hero-section .app-stores img {
   height: 45px;
@@ -8976,8 +8976,8 @@ a.link-on-bg:hover {
 }
 @media (max-width: 991.98px) {
   .hero-section .figure-holder {
-    min-height: 460px;
-    background-position: 260px 0px;
+    min-height: 200px;
+    background-position: 240px 0px;
     background-size: 700px auto;
   }
 }
@@ -8987,7 +8987,7 @@ a.link-on-bg:hover {
   }
   .hero-section .figure-holder {
     padding-bottom: 400px;
-    background-position: center 400px;
+    background-position: center 200px;
     background-size: 992px auto;
   }
 }
@@ -9004,7 +9004,7 @@ a.link-on-bg:hover {
   }
   .hero-section .figure-holder {
     padding-bottom: 400px;
-    background-position: center 420px;
+    background-position: center 200px;
     background-size: 992px auto;
   }
   .logos-row {
